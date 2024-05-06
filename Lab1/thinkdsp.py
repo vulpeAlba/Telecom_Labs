@@ -5,6 +5,7 @@ Copyright 2013 Allen B. Downey
 License: MIT License (https://opensource.org/licenses/MIT)
 """
 
+
 import copy
 import math
 
